@@ -17,5 +17,3 @@ LinkingTo:
     Rcpp,
     TMB,
     RcppEigen
-SystemRequirements: GNU make
-NeedsCompilation: yes
